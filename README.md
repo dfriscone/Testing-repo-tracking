@@ -11,3 +11,11 @@
 -  Vender contracts signed
 -  Development phase
 -  Budget remaining: $45,000
+
+***
+
+
+## Week 3 - January 20, 2-26
+-  Policy created
+-  Creation phase
+-  Budget remaining: $35,000
