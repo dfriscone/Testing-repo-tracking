@@ -10,4 +10,4 @@
 ## Week 2 - January 13, 2026
 -  Vender contracts signed
 -  Development phase
--  
+-  Budget remaining: $45,000
