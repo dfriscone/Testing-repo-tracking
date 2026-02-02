@@ -15,7 +15,7 @@
 ***
 
 
-## Week 3 - January 20, 2-26
+## Week 3 - January 20, 2026
 -  Policy created
 -  Creation phase
 -  Budget remaining: $35,000
