@@ -19,3 +19,10 @@
 -  Policy created
 -  Creation phase
 -  Budget remaining: $35,000
+
+***
+
+
+## Week 4 - January 27, 2026
+-  Funding acquired
+-  Budget: $12,000
